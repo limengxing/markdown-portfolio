@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+#### [Image of The Silver Coin Galaxy](https://science.nasa.gov/ngc-253-silver-coin-galaxy)
