@@ -1,5 +1,6 @@
-1. *Latte
-2. _Chai Tea Latte
-  i **Hot
-  ii **No Sugar
-  :tada:
+*1. Latte
+_2. Chai Tea Latte
+**Hot
+**No Sugar
+
+   :tada:
