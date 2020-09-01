@@ -1,1 +1,1 @@
-![APOD of the Silver Coin Galaxy](https://apod.nasa.gov/apod/image/2004/NGC253_HstSubaruEsoNew_3500.jpg)
+ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
