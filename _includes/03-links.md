@@ -1,1 +1,1 @@
-[Git hub](https://github.com/limengxing)
+[GitHub](http://github.com)
