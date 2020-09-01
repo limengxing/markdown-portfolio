@@ -1,5 +1,5 @@
 1. *Latte
 2. _Chai Tea Latte
-  ** Hot
-  ** No Sugar
+  i **Hot
+  ii **No Sugar
   :tada:
